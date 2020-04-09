@@ -1,0 +1,66 @@
+{
+  "Appetizers": [
+    {
+      "name": "Battered mushrooms",
+      "price": "8.99"
+    },
+    {
+      "name": "Breaded Dill Pickle Spears",
+      "price": "6.49"
+    },
+    {
+      "name": "Breaded Jalapenos w/crm cheese 454g",
+      "price": "10.99"
+    },
+    {
+      "name": "Meatballs 908g",
+      "price": "10.69"
+    }
+  ],
+  "BAKERY \\ GROCERY": [
+    {
+      "name": "6 Whole Wheat Sausage Buns",
+      "price": "3.89"
+    },
+    {
+      "name": "Kaiser Buns (Package of 8)",
+      "price": "4.99"
+    },
+    {
+      "name": "6 pack raisin buttertart",
+      "price": "6.29"
+    },
+    {
+      "name": "6 White Sausage Buns",
+      "price": "3.89"
+    }
+  ],
+  "Hewitts": [
+    {
+      "name": "1L Half and Half Cream",
+      "price": "3.49"
+    },
+    {
+      "name": "2% Milk",
+      "price": "5.50"
+    },
+    {
+      "name": "500mL White milk",
+      "price": "1.79"
+    }
+  ],
+  "Burgers": [
+    {
+      "name": "4oz Beyond Burger 2/pkg",
+      "price": "9.99"
+    },
+    {
+      "name": "6oz Beyond Burger 2/pkg",
+      "price": "11.99"
+    },
+    {
+      "name": "4oz Fireside Burger 8/pkg",
+      "price": "15.99"
+    }
+  ]
+}
